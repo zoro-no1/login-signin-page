@@ -1,0 +1,30 @@
+@media (max-width: 600px) {
+    body{
+        align-items: normal;
+    }
+ #im{
+    display: none;
+ }
+  input {
+    width: 12em;
+    height: 2em;
+  }
+  input:nth-child(3) {
+    width: 9em;
+  }
+  #login-main{
+
+    position: static;
+  }
+  #main-box{
+    display: inline;
+    margin-top: 80px;
+    height: 325px;
+    position: relative;
+  }
+  #Signin{
+    margin-top: 80px;
+    height: 325px;
+    position: relative;
+  }
+}
