@@ -62,3 +62,28 @@ input:nth-child(3) {
   cursor: context-menu;
 
 }
+#s-h{
+  position:absolute;
+  right:14px;
+  top: 25%;
+  z-index: 1;
+  color: black;
+}
+#s-h:hover{
+
+  cursor: pointer;
+}
+#eye{
+  position: relative;
+}
+#s-h1{
+  position:absolute;
+  right:14px;
+  top: 25%;
+  z-index: 1;
+  color: black;
+}
+#s-h1:hover{
+
+  cursor: pointer;
+}
